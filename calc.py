@@ -1,5 +1,5 @@
 import numpy as np, time, os
-from dll.getch import getch
+from getch import getch
 
 button_delay = 0.0001
 # + 43
